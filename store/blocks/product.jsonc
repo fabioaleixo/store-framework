@@ -3,6 +3,7 @@
     "children": [
       "breadcrumb",
       "flex-layout.row#main",
+      "shelf.relatedProducts",
       "flex-layout.col#left",
       "flex-layout.col#right",
       "product-images"
